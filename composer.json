@@ -1,0 +1,24 @@
+{
+  "name": "evgmel/SimpleEncryptor",
+  "description": "SimpleEncryptor package is necessary to perform two-way encryption / decryption of eny string",
+  "license": "MIT",
+  "keywords": ["SimpleEncryptor", "encryption", "decryption"],
+  "authors": [
+    {
+      "name": "Evgeny Melnikov",
+      "email": "mail@evgu.ru"
+    }
+  ],
+
+  "require": {},
+
+  "require-dev": {
+    "phpunit/phpunit": "4.0.*"
+  },
+
+  "autoload": {
+    "psr-4" : {
+      "Evgmel\\SimpleEncryptor\\" : "src/SimpleEncryptor"
+    }
+  }
+}
