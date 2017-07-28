@@ -1,8 +1,8 @@
 {
-  "name": "evgmel/SimpleEncryptor",
+  "name": "evgmel/simple-encryptor",
   "description": "SimpleEncryptor package is necessary to perform two-way encryption / decryption of eny string",
   "license": "MIT",
-  "keywords": ["SimpleEncryptor", "encryption", "decryption"],
+  "keywords": ["simple-encryptor", "encryption", "decryption"],
   "authors": [
     {
       "name": "Evgeny Melnikov",
